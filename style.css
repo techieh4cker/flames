@@ -9,6 +9,7 @@ html{
     background-color: rgb(0, 0, 0);
     animation-name: flames;
     animation-duration: 5s;
+    scroll-behaviour:smooth;
 }
 @keyframes flames {
     from {background-color: rgb(249, 219, 150);}
